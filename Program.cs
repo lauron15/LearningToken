@@ -12,7 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
-//Registro to Token. 
+//Registro to Token. Sempre colocar.  
 builder.Services.AddTransient<TokenService>();
 
 var app = builder.Build();
@@ -20,7 +20,7 @@ var app = builder.Build();
 app.MapGet("/", handler: (TokenService service)
 => service.Generate(
 
-//essa parte é só para gerar o usuário, se eu tivesse criando pelo controller, creio que eu não precissaria disso. 
+//Essa parte é só para gerar o usuário, se eu tivesse criando pelo controller, creio que eu não precissaria disso. 
 new User(    
 id:1, 
 Email: "teste@lauro.io", 

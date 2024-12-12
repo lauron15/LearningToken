@@ -42,3 +42,4 @@ L:\ProjetosDev\AprendendoToken\JwtBearer\JwtBearer\obj\Debug\net8.0\refint\JwtBe
 L:\ProjetosDev\AprendendoToken\JwtBearer\JwtBearer\obj\Debug\net8.0\JwtBearer.pdb
 L:\ProjetosDev\AprendendoToken\JwtBearer\JwtBearer\obj\Debug\net8.0\JwtBearer.genruntimeconfig.cache
 L:\ProjetosDev\AprendendoToken\JwtBearer\JwtBearer\obj\Debug\net8.0\ref\JwtBearer.dll
+L:\ProjetosDev\AprendendoToken\JwtBearer\JwtBearer\obj\Debug\net8.0\JwtBearer.sourcelink.json
